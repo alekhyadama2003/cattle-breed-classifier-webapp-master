@@ -1,10 +1,13 @@
 ---
 Person Name : Alekhya Dama(Developer)
 Title: Cattle Breed Classifier
-Academic Project : 8th Semester 
+Academic Project : 8th Semester (2026)
 Project Size : 6 members
+Project Assigned by : University Capstone Project Mentor
+Project Duration : 4 months 
+University : Lovely Professional University
 My Role : Team Leader,Task Assigner,Developer
-University : Lovely Professional University 
+ 
 
 emoji: 🐄
 colorFrom: blue
