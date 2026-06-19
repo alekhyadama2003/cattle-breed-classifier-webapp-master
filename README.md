@@ -1,5 +1,5 @@
 ---
-title: Cattle Breed Classifier
+Title: Cattle Breed Classifier
 Academic Project : 8th Semester 
 Project Size : 6 members
 My Role : Team Leader,Task Assigner,Developer
