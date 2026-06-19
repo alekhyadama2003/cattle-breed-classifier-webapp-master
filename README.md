@@ -1,4 +1,5 @@
 ---
+Person Name : Alekhya Dama(Developer)
 Title: Cattle Breed Classifier
 Academic Project : 8th Semester 
 Project Size : 6 members
